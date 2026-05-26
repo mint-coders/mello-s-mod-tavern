@@ -1,0 +1,2 @@
+Hello! ^W^ this is banana manger it manges mods like monke mod manger but banana manger intergrates with
+melon loader so you can load mods directly from the manger!
