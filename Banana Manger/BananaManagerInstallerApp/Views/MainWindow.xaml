@@ -1,0 +1,41 @@
+<Window x:Class="BananaManagerInstallerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Banana Manager Installer" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#F5F5F5">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Banana Manager Installer" 
+                       FontSize="32" 
+                       FontWeight="Bold" 
+                       Foreground="#333333"
+                       TextAlignment="Center"
+                       Margin="0,0,0,30"/>
+            
+            <TextBlock Text="Welcome! Click the button below to start installation." 
+                       FontSize="16" 
+                       Foreground="#666666"
+                       TextAlignment="Center"
+                       Margin="0,0,0,30"/>
+            
+            <Button Content="Start Installation" 
+                    Width="200" 
+                    Height="50" 
+                    FontSize="16"
+                    Background="#4CAF50"
+                    Foreground="White"
+                    Click="StartButton_Click"/>
+            
+            <TextBlock x:Name="StatusText" 
+                       Text="" 
+                       FontSize="14" 
+                       Foreground="#333333"
+                       TextAlignment="Center"
+                       Margin="0,30,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

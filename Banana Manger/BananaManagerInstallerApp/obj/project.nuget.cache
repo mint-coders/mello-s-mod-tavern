@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "/oJQlM4e/14=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeremiah Bell\\OneDrive\\Documents\\Banana Manger Installer\\BananaManagerInstallerApp\\BananaManagerInstallerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\interop.iwshruntimelibrary\\1.0.1\\interop.iwshruntimelibrary.1.0.1.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.25\\microsoft.net.illink.tasks.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.25\\microsoft.netcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.25\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.25\\microsoft.aspnetcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.25\\microsoft.netcore.app.crossgen2.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\Jeremiah Bell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Interop.IWshRuntimeLibrary 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Jeremiah Bell\\OneDrive\\Documents\\Banana Manger Installer\\BananaManagerInstallerApp\\BananaManagerInstallerApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Jeremiah Bell\\OneDrive\\Documents\\Banana Manger Installer\\BananaManagerInstallerApp\\BananaManagerInstallerApp.csproj",
+      "libraryId": "Interop.IWshRuntimeLibrary",
+      "targetGraphs": [
+        "net8.0-windows"
+      ]
+    }
+  ]
+}
