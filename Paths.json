@@ -1,0 +1,48 @@
+{
+  "loaders": [
+    {
+      "name": "MelonLoader",
+      "targetModsPath": ""
+    },
+    {
+      "name": "MelonLoader",
+      "targetModsPath": ""
+    },
+    {
+      "name": "MelonLoader",
+      "targetModsPath": "C:\\Users\\Jeremiah Bell\\OneDrive\\Desktop\\Lane\u0027s stuff\\Mods"
+    },
+    {
+      "name": "MelonLoader",
+      "targetModsPath": ""
+    },
+    {
+      "name": "MelonLoader",
+      "targetModsPath": "C:\\Users\\Jeremiah Bell\\OneDrive\\Desktop\\stuff"
+    },
+    {
+      "name": "MelonLoader",
+      "targetModsPath": ""
+    },
+    {
+      "name": "BepInEx",
+      "targetModsPath": "C:\\Users\\Jeremiah Bell\\OneDrive\\Desktop\\Lane\u0027s stuff"
+    }
+  ],
+  "mods": [
+    {
+      "name": "MenuVer1Beta",
+      "path": "C:\\Users\\Jeremiah Bell\\OneDrive\\Desktop\\MenuVer1Beta.dll",
+      "loader": "MelonLoader",
+      "deployedPath": "",
+      "enabled": false
+    },
+    {
+      "name": "version",
+      "path": "C:\\Users\\Jeremiah Bell\\OneDrive\\Desktop\\Lane\u0027s stuff\\version.dll",
+      "loader": "BepInEx",
+      "deployedPath": "",
+      "enabled": false
+    }
+  ]
+}
